@@ -38,7 +38,7 @@ I am a Ph.D. candidate in Computer Science at the Hong Kong University of Scienc
 
 ## Publications
 
-A full list is also available on the [Publications]({{ base_path }}/publications/) page.
+A full list is also available on the [Publications]({{ site.baseurl }}/publications/) page.
 
 1. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond." arXiv, 2025. (First author)
 2. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. "On the Perception Bottleneck of VLMs for Chart Understanding." arXiv, 2025. (First author)
